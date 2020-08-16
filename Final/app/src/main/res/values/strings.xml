@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_temp_calendar_fragment">This is temp calendar fragment</string>
+    <string name="this_is_temp_food_fragment">This is temp food fragment</string>
+    <string name="this_is_temp_time_table_fragment">This is temp time table fragment</string>
+</resources>
