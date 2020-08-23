@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EventListActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvYearEventList"
+        android:text="Year"
+        android:textSize="30sp"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDateEventList"
+        android:text="DateView"
+        android:textSize="55sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/lvEventList"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginRight="15dp" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:id="@+id/btEventCreation"
+            android:text="@string/button_event_create"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

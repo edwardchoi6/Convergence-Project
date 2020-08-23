@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "145107159650",
+    "firebase_url": "https://my-awesome-calender.firebaseio.com",
+    "project_id": "my-awesome-calender",
+    "storage_bucket": "my-awesome-calender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145107159650:android:36e949a968ff92aec4df3b",
+        "android_client_info": {
+          "package_name": "com.example.activitybased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145107159650-2qvdp0tg7l19mnqce9ovruvtomqo79uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.activitybased",
+            "certificate_hash": "72eaadb16e1320351f3a428a2afee4ed0fe7cabd"
+          }
+        },
+        {
+          "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAuOsUf4qx1OelKdzpHejpox-kFupqQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145107159650:android:53c886d2e40c1828c4df3b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145107159650-2lur3efgbqp12uqrvf2v4khffh7vng4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "1c5220d1611bcd4d66565599fa38b0b5d780c261"
+          }
+        },
+        {
+          "client_id": "145107159650-626822h15ie60r62p0mc4s22uhhd5qbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "3f75f00c8e6b4e554147e3c17f795255e7b6961c"
+          }
+        },
+        {
+          "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAuOsUf4qx1OelKdzpHejpox-kFupqQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145107159650:android:f9632f7018462aa9c4df3b",
+        "android_client_info": {
+          "package_name": "com.example.navigationmenureal20200501"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145107159650-5m2otfsf509bpb4gmcdjgrlhnvn9qhj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.navigationmenureal20200501",
+            "certificate_hash": "3f75f00c8e6b4e554147e3c17f795255e7b6961c"
+          }
+        },
+        {
+          "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAuOsUf4qx1OelKdzpHejpox-kFupqQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145107159650-093rfdp81r9btvgoggmadbd7i82bnhcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

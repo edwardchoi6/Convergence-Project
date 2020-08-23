@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ActivityBased</string>
+    <string name="hint_email">"이메일을 입력해주세요"</string>
+    <string name="hint_Password">"비밀번호를 입력해주세요"</string>
+    <string name="button_Login">"로그인"</string>
+    <string name="button_Register">"회원가입"</string>
+    <string name="button_Confirm">"확인"</string>
+    <string name="hint_category">"카테고리를 입력해주세요"</string>
+    <string name="hint_title">"제목을 입력해주세요"</string>
+    <string name="hint_content">"내용을 입력해주세요"</string>
+    <string name="text_event_start">"시작 시간"</string>
+    <string name="text_event_finish">"마감 시간</string>
+    <string name="button_event_create">"생성"</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_navigation">Navigation</string>
+</resources>
